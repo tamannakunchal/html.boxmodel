@@ -1,0 +1,121 @@
+.container {
+    background-color: #61e1b3;
+    width: 500px;
+    padding: 80px;
+    font-family: 'Roboto', sans-serif;
+    margin: 70px auto;
+    border-radius: 10px;
+}
+h1 {
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+.head-2 {
+    margin-top: -8px;
+}
+p {
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-1 {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+/* 2nd assignment */
+.container-2 {
+    width: 300px;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin: 70px auto;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+.one {
+    width: 70px;
+    border-radius: 50%;
+}
+.profile {
+    text-decoration: none;
+    color: rgb(87, 129, 207);
+    font-size: 13px;
+}
+/* 3rd assignment */
+.container-3 {
+    width: 300px;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin: 70px auto;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+.two {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+.para-1 {
+    font-size: 10px;
+    font-weight: 700;
+}
+.head-3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px auto;
+}
+.cont {
+    font-size: 13px;
+}
+.btn-2 {
+    border: 1px solid lightgray;
+    padding: 8px 18px;
+    font-weight: 600;
+    border-radius: 2px;
+    background-color: white;
+    color: rgb(24, 141, 224);
+}
+/* 4th assignment */
+.container-4 {
+    width: 250px;
+    font-family: 'Roboto', sans-serif;
+    margin: 50px auto;
+    text-align: center;
+}
+.logo-1 {
+    width: 100px;
+    margin-bottom: -10px;
+}
+input {
+    width: 100%;
+    padding: 12px 15px;
+    margin-bottom: 10px;
+    border: 1px solid lightgray;
+    border-radius: 8px;
+}
+.btn-3 {
+    background-color: black;
+    border: none;
+    border-radius: 40px;
+    font-weight: 500;
+    color: white;
+    padding: 12px 30px;
+    font-size: 14px;
+    margin-top: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+section {
+    font-size: 10px;
+}
+section  a {
+    color: black;
+    font-size: 11px;
+}
+footer {
+    margin-top: 30px;
+    font-size: 9px;
+}
+footer a {
+    color: black;
+}
